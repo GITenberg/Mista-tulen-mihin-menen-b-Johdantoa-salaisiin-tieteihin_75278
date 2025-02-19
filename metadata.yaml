@@ -1,0 +1,39 @@
+_repo: Mista-tulen-mihin-menen-b-Johdantoa-salaisiin-tieteihin_75278
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Saima
+    aliases:
+    - Grönstrand, Saima Maria
+    - Gronstrand, Saima Maria
+    - G--d, S.
+    - G., S.
+    - S. G.
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '56250'
+    url: http://www.gutenberg.org/2009/agents/56250
+    wikipedia: https://fi.wikipedia.org/wiki/Saima_Gr%C3%B6nstrand
+creator:
+  author:
+    agent_name: Prel, Carl du
+    gutenberg_agent_id: '57916'
+    url: http://www.gutenberg.org/2009/agents/57916
+description: ''
+gutenberg_issued: '2025-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75278'
+language: fi
+pgterms:marc905: 20250128012132prel
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bKirjapainoyhtiö Valo, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mistä tulen, mihin menen? : $b Johdantoa salaisiin tieteihin'
+url: http://www.gutenberg.org/ebooks/75278
