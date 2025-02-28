@@ -14,12 +14,17 @@ contributor:
     gutenberg_agent_id: '56250'
     url: http://www.gutenberg.org/2009/agents/56250
     wikipedia: https://fi.wikipedia.org/wiki/Saima_Gr%C3%B6nstrand
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Prel, Carl du
     gutenberg_agent_id: '57916'
     url: http://www.gutenberg.org/2009/agents/57916
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75278#Mista-tulen-mihin-menen-b-Johdantoa-salaisiin-tieteihin
 gutenberg_issued: '2025-02-02'
 gutenberg_type: Text
 identifiers:
